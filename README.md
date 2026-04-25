@@ -205,7 +205,7 @@ GitHub: https://github.com/kbdp1305
 
 ## Acknowledgment
 
-Dataset provided by MachineHack via Kaggle:
+Dataset provided by Manu Mathew via Kaggle:
 https://www.kaggle.com/datasets/manukulamkombil/machinehack-financial-risk-prediction
 
 ---
